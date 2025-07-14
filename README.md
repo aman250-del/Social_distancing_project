@@ -1,2 +1,6 @@
-# Social_distancing_project
-this project detects whenever there is disobeying of social distancing 
+# social-distance-analyzer
+
+## Download yolo.weights from the link and place it in yolo-coco folder:
+```
+https://sourceforge.net/projects/yolov3.mirror/files/v8/yolov3.weights/download
+```
